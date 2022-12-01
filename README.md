@@ -5,6 +5,7 @@ SHOPIFY_API_KEY=**************************************
 SHOPIFY_API_SECRET=********************************************
 
 4. run `composer install` command.
+5. run `php artisan migrate` command.
 
 Shopify App Settings
 In your app’s settings on your Shopify Partner dashboard, you need to set the callback URL to be:
